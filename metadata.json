@@ -1,0 +1,8 @@
+{
+  "name": "Text-to-Speech Document Converter",
+  "description": "Convert text files and custom documents into natural-sounding speech with multiple voices, accents, and downloadable WAV or MP3 audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
